@@ -1,0 +1,20 @@
+C:\Users\0319be\Downloads\SimplePendulumAllCases\SimplePendulumAllCases\bin\Debug\SimplePendulumAllCases.exe.config
+C:\Users\0319be\Downloads\SimplePendulumAllCases\SimplePendulumAllCases\obj\Debug\SimplePendulumAllCases.csprojResolveAssemblyReference.cache
+C:\Users\0319be\Downloads\SimplePendulumAllCases\SimplePendulumAllCases\obj\Debug\SimplePendulumAllCases.Form1.resources
+C:\Users\0319be\Downloads\SimplePendulumAllCases\SimplePendulumAllCases\obj\Debug\SimplePendulumAllCases.Properties.Resources.resources
+C:\Users\0319be\Downloads\SimplePendulumAllCases\SimplePendulumAllCases\obj\Debug\SimplePendulumAllCases.csproj.GenerateResource.Cache
+C:\Users\0319be\Downloads\SimplePendulumAllCases\SimplePendulumAllCases\bin\Debug\SimplePendulumAllCases.exe
+C:\Users\0319be\Downloads\SimplePendulumAllCases\SimplePendulumAllCases\bin\Debug\SimplePendulumAllCases.pdb
+C:\Users\0319be\Downloads\SimplePendulumAllCases\SimplePendulumAllCases\obj\Debug\SimplePendulumAllCases.exe
+C:\Users\0319be\Downloads\SimplePendulumAllCases\SimplePendulumAllCases\obj\Debug\SimplePendulumAllCases.pdb
+E:\Simulation\After mids 7\Sem 7\Simulation\SimplePendulumAllCases\SimplePendulumAllCases\bin\Debug\SimplePendulumAllCases.exe.config
+E:\Simulation\After mids 7\Sem 7\Simulation\SimplePendulumAllCases\SimplePendulumAllCases\bin\Debug\SimplePendulumAllCases.exe
+E:\Simulation\After mids 7\Sem 7\Simulation\SimplePendulumAllCases\SimplePendulumAllCases\bin\Debug\SimplePendulumAllCases.pdb
+E:\Simulation\After mids 7\Sem 7\Simulation\SimplePendulumAllCases\SimplePendulumAllCases\obj\Debug\SimplePendulumAllCases.csproj.AssemblyReference.cache
+E:\Simulation\After mids 7\Sem 7\Simulation\SimplePendulumAllCases\SimplePendulumAllCases\obj\Debug\SimplePendulumAllCases.csproj.SuggestedBindingRedirects.cache
+E:\Simulation\After mids 7\Sem 7\Simulation\SimplePendulumAllCases\SimplePendulumAllCases\obj\Debug\SimplePendulumAllCases.Form1.resources
+E:\Simulation\After mids 7\Sem 7\Simulation\SimplePendulumAllCases\SimplePendulumAllCases\obj\Debug\SimplePendulumAllCases.Properties.Resources.resources
+E:\Simulation\After mids 7\Sem 7\Simulation\SimplePendulumAllCases\SimplePendulumAllCases\obj\Debug\SimplePendulumAllCases.csproj.GenerateResource.cache
+E:\Simulation\After mids 7\Sem 7\Simulation\SimplePendulumAllCases\SimplePendulumAllCases\obj\Debug\SimplePendulumAllCases.csproj.CoreCompileInputs.cache
+E:\Simulation\After mids 7\Sem 7\Simulation\SimplePendulumAllCases\SimplePendulumAllCases\obj\Debug\SimplePendulumAllCases.exe
+E:\Simulation\After mids 7\Sem 7\Simulation\SimplePendulumAllCases\SimplePendulumAllCases\obj\Debug\SimplePendulumAllCases.pdb
